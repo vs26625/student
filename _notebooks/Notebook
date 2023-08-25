@@ -1,0 +1,8 @@
+http://localhost:4200/student/ -> link to my server
+Always have a README.md. This is because it is what helps you explain your blog.
+index.md is the first page.
+_site is made when you type "make" it is NOT from teacher and it's NOT from GitHub. It's js there.
+Dont commit what you dont make!!! (dont commit them if they are dim let them be ignored)
+DONT DO REPEATITIVE DATA
+yml/yaml is a bunch of data (key values) 
+-> ex: whats the name? name whats the value? ___ so name:____
